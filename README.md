@@ -1,7 +1,7 @@
 # Cloud Base Meaasge Application
  
  
- Live at: https://ionic-messenger-starter.firebaseapp.com
+DEMO: https://ionic-messenger-starter.firebaseapp.com
  
  Stack:
  Ionic 3
